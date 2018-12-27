@@ -74,7 +74,7 @@ For model definitions:
  * @typedef Point
  * @property {integer} x.required
  * @property {integer} y.required - Some description for point - eg: 1234
- * @property {string} color
+ * @property {[string]} colors - array of colors - eg: red,blue,green
  */
 
 /**
